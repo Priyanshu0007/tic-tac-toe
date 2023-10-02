@@ -2,7 +2,7 @@
 # Tic Tac Toe 
 ### [Live Site](https://oooxxx.surge.sh/)
 
-![scre]( "Optional title")
+![scre](https://github.com/Priyanshu0007/tic-tac-toe/blob/main/src/screenshot.jpeg?raw=true "Optional title")
 
 
 
